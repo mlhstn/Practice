@@ -54,7 +54,7 @@
      büyük olan ve rental_rate 2.99 olan verileri sıralayınız.
   *) SELECT*FROM film WHERE title LIKE 'C%' AND length > 90 AND rental_rate = 2.99;
 
-   ------------------------------  ÖDEV 3  --------------------------
+   ------------------------------  ÖDEV 4  --------------------------
 
    1) film tablosunda bulunan replacement_cost sütununda bulunan birbirinden farklı değerleri sıralayınız.
    *)SELECT DISTINCT replacement_cost FROM film;
