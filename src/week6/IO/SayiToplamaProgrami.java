@@ -8,7 +8,7 @@ public class SayiToplamaProgrami {
     public static void main(String[] args) {
         try {
             // Dosya yolu belirtilmeli
-            String dosyaYolu = "sayilar.txt";
+            String dosyaYolu = "C:\\Users\\melih\\IdeaProjects\\Patica_Academy\\Task\\src\\week6\\IO\\sayilar.txt";
 
             // Dosyayı okumak için BufferedReader kullanılır
             BufferedReader reader = new BufferedReader(new FileReader(dosyaYolu));
